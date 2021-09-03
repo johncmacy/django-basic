@@ -23,7 +23,7 @@ This is a basic Django project that includes:
 1. In a terminal, change directory to the desired location. For example, `cd C:/apps`.
 2. On your new repo's main page, click the `Code` dropdown button.
 3. With HTTPS selected, copy the URL.
-4. In the terminal, `git clone https://github.com/<username>/<repo>.git`.
+4. In the terminal, `git clone <paste url from step 3>`.
 5. Change directory into the new folder, like so: `cd my-project`.
 6. Run `code .` to open it in Visual Studio Code.
 
